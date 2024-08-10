@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-08-08T16:42:16.043Z</updated>
+  <updated>2024-08-09T08:47:54.104Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Hello World</title>
     <link href="http://example.com/2024/08/09/hello-world/"/>
     <id>http://example.com/2024/08/09/hello-world/</id>
-    <published>2024-08-08T16:42:16.043Z</published>
-    <updated>2024-08-08T16:42:16.043Z</updated>
+    <published>2024-08-09T08:47:25.000Z</published>
+    <updated>2024-08-09T08:47:54.104Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -33,6 +33,36 @@
     
     
     
+    <category term="测试" scheme="http://example.com/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>斯人若彩虹，遇上方知有</title>
+    <link href="http://example.com/2024/08/02/%E6%96%AF%E4%BA%BA%E8%8B%A5%E5%BD%A9%E8%99%B9%20%E9%81%87%E4%B8%8A%E6%96%B9%E7%9F%A5%E6%9C%89/"/>
+    <id>http://example.com/2024/08/02/%E6%96%AF%E4%BA%BA%E8%8B%A5%E5%BD%A9%E8%99%B9%20%E9%81%87%E4%B8%8A%E6%96%B9%E7%9F%A5%E6%9C%89/</id>
+    <published>2024-08-02T08:47:25.000Z</published>
+    <updated>2024-08-10T15:06:50.484Z</updated>
+    
+    <content type="html"><![CDATA[<p>甬城的天气，近来颇不寻常。一入仲夏，连续几周的高温，不断打消我们出行的欲望，但难却我们相久相恋相爱的念头。</p><p>午后初醒不久，就告了早退的报告，给新来的小郑留下了不好的印象。Anyway，谁也无法阻止我飞奔去见璐璐的心情。尚未至，心已所往。</p><p>晚上吃的骑士牛排，临水的窗台边。最适合两个小情侣打情骂俏，共赏城市夜色。餐后去看了电影《解密》。里面有一句话，很喜欢：</p><p>每个人都是一段独特的密码，这一生就是解密的过程!</p><p>密码学里，其实有这样一种加密算法，其解密需要提供一种唯一的密钥。相爱就像是密钥遇上了密码，是一生的唯一解码。</p><p>看电影期间，励泽又来找璐璐宝贝了，尽管璐璐宝贝已经很久没理他了。没来由的一阵醋意上涌，和璐璐宝贝说了不少心里话，回头想想，确实是因为在意，所以当有其他异性和璐璐宝贝接触，就会很没安全感，因为璐璐宝贝在我眼中，是那么的耀眼，当时有些话也说的不是很合适。</p><p>回来后，璐璐宝贝给我发了她拒绝励泽邀约的消息，那一瞬间，心里暖暖的，有点阴霾也随之消散，虹光满天。有好多好多好多话，想对你说，话到嘴边，却又不知道说什么，只有简简单单的：“我爱你！谢谢你！璐璐宝贝！遇见你，真好！”</p><p>此刻，我开始真正明白要怎么去爱一个人，有些时候知道和去做、去长期坚持做，给人的感受是不一样的，爱情的分量也是有轻重的。过往的书页开始翻动，想到以前的一些行为，我还远远不够，用心去爱一个人在此刻变得具象化了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;甬城的天气，近来颇不寻常。一入仲夏，连续几周的高温，不断打消我们出行的欲望，但难却我们相久相恋相爱的念头。&lt;/p&gt;
+&lt;p&gt;午后初醒不久，就告了早退的报告，给新来的小郑留下了不好的印象。Anyway，谁也无法阻止我飞奔去见璐璐的心情。尚未至，心已所往。&lt;/p&gt;
+&lt;p&gt;晚上吃的</summary>
+      
+    
+    
+    
+    <category term="小林的爱情日记" scheme="http://example.com/categories/%E5%B0%8F%E6%9E%97%E7%9A%84%E7%88%B1%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="小林的爱情日记" scheme="http://example.com/tags/%E5%B0%8F%E6%9E%97%E7%9A%84%E7%88%B1%E6%83%85%E6%97%A5%E8%AE%B0/"/>
     
   </entry>
   
